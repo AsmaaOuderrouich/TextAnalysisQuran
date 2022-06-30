@@ -5,4 +5,6 @@
 
   Having deepened our theoretical knowledge of text analysis and its techniques, the Natural Language Processing, as well as the Topic Modeling, the statistical studies and analyses that will be carried out on the text will be considered as an application of this learning. To do this, we used the Python programming language known for these rich libraries, and which is significantly leader in the field of Data Analytics.
   you will find below the link to the data used : 
+  
+  
   https://drive.google.com/drive/u/0/folders/1_r-0HiLO3hhbWWNDuG36-eAhZxtizGUm
